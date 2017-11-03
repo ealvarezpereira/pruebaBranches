@@ -19,6 +19,9 @@ public class Branches {
         
         
         System.out.println("b");
+        
+        
+        System.out.println("c");
     }
     
 }
